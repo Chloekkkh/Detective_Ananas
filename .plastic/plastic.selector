@@ -1,0 +1,4 @@
+repository "ATP-CW2d@ATP_CW@cloud"
+  path "/"
+    smartbranch "/main/Dev"   
+     

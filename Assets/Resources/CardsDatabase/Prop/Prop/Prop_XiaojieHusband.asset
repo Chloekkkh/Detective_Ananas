@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b95c31ff6e45df4d8ff93e300986186, type: 3}
+  m_Name: Prop_XiaojieHusband
+  m_EditorClassIdentifier: 
+  cardName: XIaojiehusband
+  showName: 
+  cardType: 1
+  cardDescription: 'Gardener: Ken and the late master John do look quite alike, don''t
+    they?'
+  cardSprite: {fileID: 0}
+  cardBG: {fileID: 21300000, guid: c61ee441aff5c8243b34cc35fd8b5dcc, type: 3}
+  isCreated: 0
